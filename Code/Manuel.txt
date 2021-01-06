@@ -1,0 +1,51 @@
+QUORIDOR :
+
+Bienvenue dans le manuel du Quoridor :
+
+
+Sommaire : 
+
+1- Regles du jeu 
+
+2-Fonctionnalités
+   2.1/Les différents modes
+   2.2/Le système de sauvegarde	
+
+
+
+
+1-REGLE DU JEU :
+
+Le jeu du  Quoridor est un jeu de plateau  qui se joue jusqu'a 4 joueurs, le but est d'atteindre avec son pion la ligne opposée à sa ligne de départ,
+pour cela le pion peut se déplacer d'une case vers l'avant, l'arrière, la gaucher et la droite. Pour pimenter le jeu des murs peuvent être posés chaque
+joueur à 10 murs ( 5 en mode 4 joueurs) les murs se place entre les cases, attention un mur ne peut pas bloqués totalement un joueur, il doit toujours
+avoir une chancer de gagner.
+Il y a également des mouvements spéciaux si 2 pion sont en face ou cote à cote, un des pions peut sauter le pion adverse et donc aterrir derrière lui,
+si un mur se trouve derrière se pion dans ce cas, il peut se déplacer en diagonales gauche ou droite ( juste à coté à gauche ou à droite du pion adverse),
+bien évidemment les diagonales sont impossibles si des murs se trouvent à gauche ou à droite du pion adverse.
+
+
+2-FONCTIONNALITÉS :
+
+Cette version du Quoridor propose un mode de jeu à 2 joueurs, ainsi qu'un système de sauvegarde alors jusqu'à 10 sauvegardes,ainsi que 3 modes de jeu, le mode HH,
+
+2.1/Les différents modes:
+le mode HIA et le IAIA : 
+	-le mode HH vous permet d'affronter un autre joueur humain, un  ami par exemple
+	-le mode HIA vous permet d'affronter l'ordinateur
+	-le mode IAIA vous permet d'observer 2 IA s'affronter
+
+2.2/Le système de sauvegarde : 
+
+le Système de sauvegardes :
+Quand les 10 sauvegardes sont atteintes,
+il est impossible de sauvegarder pour cela il suffira d'aller dans le dossier du jeu, puis le dossier data, puis le dossier sauvegardes et enfin supprimer le dossier sauvegarde 
+qui contient la sauvegarde que vous voulez supprimée. (ATTENTION ne pas supprimer le dossier "sauvegardes" cela ferait dysfonctionner le système de sauvegarde du jeu , les sauvegardes à supprimer sont dans 
+le dossier "sauvegardes", elles portent le nom de "sauvegarde1", "sauvegarde2". Pour résumer pour supprimer alors à ce chemin : "Quoridor\data\sauvegardes" la vous vous trouver avec
+sauvegarde portent le nom de "sauvegarde1" et etc, puis supprimer la sauvegarde que vous ne voulez pas garder.
+Les sauvegardes possibles sont celles correspondant au modes HH et HIA .
+
+PS : Pour que le système de sauvegardes fonctionnent assurer de vous positionner dans le dossier ws
+
+
+

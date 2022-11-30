@@ -3,6 +3,13 @@
 ## French :
 Un projet de programmation de DUT Informatique 
 
+Ce projet contient le code du jeu, les diagrammes de classes et de séquences de celui-ci ( realisé avec Visual Paradgim).
+
+Techno/ Outils utilisés : 
+- Java ( Pour le jeu)
+- Visual Paradigm (Pour les diagrammes de classe et de séquence)
+
+
 Ce projet à été réalisé dans le cadre d'un projet de programmation en DUT Informatique.
 
 Le but de ce projet était de réaliser le jeu de plateau du Quoridor, de la phase de conception et d'analyse jusqu'à la phase de la programmation.
@@ -25,7 +32,11 @@ Il est possible de sauvegarder jusqu'à 10 parties
 
 It's a programming project of a BAC +2 french diploma.
 
-This project contains the code of the game, the class diagramm and the sequence diagramm of it
+This project contains the code of the game, the class diagramm and the sequence diagramm of it ( made with Visual Paradigm ).
+
+Tech/Tools used : 
+- Java (For the code of the game)
+- Visual Paradigm ( For the class and sequence diagramm)
 
 The goal of this project was to realised the board game of the Quoridor, from the design phase up to the programming phase.
 

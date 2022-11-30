@@ -23,15 +23,15 @@ Il est possible de sauvegarder jusqu'à 10 parties
 
 ## English :
 
-> It's a programming project of a BAC +2 french diploma.
+It's a programming project of a BAC +2 french diploma.
 
-> The goal of this project was to realised the board game of the Quoridor, from the design phase up to the programming phase.
+The goal of this project was to realised the board game of the Quoridor, from the design phase up to the programming phase.
 
-> The game of the Quoridor  is a board game which the goals is to arrive to your opponent start.
+The game of the Quoridor  is a board game which the goals is to arrive to your opponent start.
 For that you can move your pawn by one case in front of , backwards, right or left.
 
-> It's also possible to place walls up to 9 walls for a game.
-> Whith the rule that you can't block the player totally.
+It's also possible to place walls up to 9 walls for a game.
+Whith the rule that you can't block the player totally.
 
 You have also special moves depending on two situations : 
 - If the opponent pawn is next to your pawn you can jump above him on the direction where it is.

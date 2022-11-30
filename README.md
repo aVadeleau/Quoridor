@@ -25,6 +25,8 @@ Il est possible de sauvegarder jusqu'à 10 parties
 
 It's a programming project of a BAC +2 french diploma.
 
+This project contains the code of the game, the class diagramm and the sequence diagramm of it
+
 The goal of this project was to realised the board game of the Quoridor, from the design phase up to the programming phase.
 
 The game of the Quoridor  is a board game which the goals is to arrive to your opponent start.

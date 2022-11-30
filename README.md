@@ -29,7 +29,7 @@ Ce projet a été réalisé en Java et propose trois mode de jeu 1vs1 :
 Il est possible de sauvegarder jusqu'à 10 parties
 ****
 
-## English :
+## English
 
 It's a programming project of a BAC +2 french diploma.
 

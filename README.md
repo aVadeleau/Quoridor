@@ -57,5 +57,5 @@ You have also special moves depending on two situations :
 This project was realised in Java and have 3 1vs1 game mode :
 - Player vs Player
 - Player vs IA
-- IA vs IA
+- IA vs IA  
 It's possible to save up to 10 games.

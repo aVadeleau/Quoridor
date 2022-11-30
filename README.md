@@ -1,4 +1,6 @@
 # Quoridor
+
+## French :
 Un projet de programmation de DUT Informatique 
 
 Ce projet à été réalisé dans le cadre d'un projet de programmation en DUT Informatique.
@@ -17,3 +19,26 @@ Ce projet a été réalisé en Java et propose trois mode de jeu 1vs1 :
 - IA contre IA
 
 Il est possible de sauvegarder jusqu'à 10 parties
+
+
+## English :
+
+> It's a programming project of a BAC +2 french diploma.
+
+> The goal of this project was to realised the board game of the Quoridor, from the design phase up to the programming phase.
+
+> The game of the Quoridor  is a board game which the goals is to arrive to your opponent start.
+For that you can move your pawn by one case in front of , backwards, right or left.
+
+> It's also possible to place walls up to 9 walls for a game.
+> Whith the rule that you can't block the player totally.
+
+You have also special moves depending on two situations : 
+- If the opponent pawn is next to your pawn you can jump above him on the direction where it is.
+- If in the first situation there is a wall behind the opponent pawn, then you can jump in the diagonal direction of it.
+
+This project was realised in Java and have 3 1vs1 game mode :
+- Player vs Player
+- Player vs IA
+- IA vs IA
+

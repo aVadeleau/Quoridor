@@ -10,3 +10,10 @@ Le jeu du Quoridor est un jeu de plateau dont le but du jeu est d'atteindre la l
 Un joueur à d'autre possibilité de déplacement de son pion dans certains cas : 
 - Si le pion adverse est à coté du pion du joueur, le joueur peut sauter par-dessus son pion dans la direction ou il se trouve et ainsi atterir à la case d'après
 - Si dans la même situation il y a un mur derrière le joueur adverse, dans ce cas le déplacement se fera en diagonales. 
+
+Ce projet a été réalisé en Java et propose trois mode de jeu 1vs1 : 
+- Joueur contre joueur
+- Joueur contre IA
+- IA contre IA
+
+Il est possible de sauvegarder jusqu'à 10 parties
